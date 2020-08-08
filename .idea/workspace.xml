@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed73c1e5-33dd-44d6-931f-37b1e31a1d2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fl753zuZmYonOnbBcTaDH8LGPW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed73c1e5-33dd-44d6-931f-37b1e31a1d2f" name="Default Changelist" comment="" />
+      <created>1596780638981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596780638981</updated>
+      <workItem from="1596780640075" duration="19972000" />
+      <workItem from="1596824375921" duration="5392000" />
+      <workItem from="1596910487262" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1579" height="226" key="GridCell.Tab.0.bottom" timestamp="1596804177919">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1579" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1596804177919" />
+    <state width="1579" height="226" key="GridCell.Tab.0.center" timestamp="1596804177919">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1579" height="226" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1596804177919" />
+    <state width="1579" height="226" key="GridCell.Tab.0.left" timestamp="1596804177918">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1579" height="226" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1596804177918" />
+    <state width="1579" height="226" key="GridCell.Tab.0.right" timestamp="1596804177919">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1579" height="226" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1596804177919" />
+    <state x="456" y="198" key="run.anything.popup" timestamp="1596829539886">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="198" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1596829539886" />
+  </component>
+</project>
